@@ -3,17 +3,17 @@
 This README file explains what the 'run_analysis.R' file contains and how the functions work.
 There is no codebook needed to explain the variables and parameters because all the functions are variables.
 To get a better grasp how functions work exactly 
-and how i have done things, it is usefull to look at the *run_analysis.R* file because it is well documentented by comment lines.
+and how i have done things, it is usefull to look at the **run_analysis.R** file because it is well documentented by comment lines.
 
 The run_analysis.R file contains the following functions:
- 1. *loadFeatures()
- 2. *loadActivitys()
- 3. *loadTest()
- 4. *loadTrain()
- 5. *loadComplete()
- 6. *mergeActivitys()
- 7. *loadTidyAggregation()
- 8. *writeTidyAggregation()
+ 1. **loadFeatures()            **
+ 2. **loadActivitys()           **
+ 3. **loadTest()                **
+ 4. **loadTrain()               **
+ 5. **loadComplete()            **
+ 6. **mergeActivitys()          **
+ 7. **loadTidyAggregation()     **
+ 8. **writeTidyAggregation()    **
  
 the following chaptes will explain the functions
  
@@ -25,6 +25,7 @@ in total it will return 79 rows
 
 ###loadActivitys()
 This function loads the activity_labels.txt file and returns a dataframe with
+
 	1. Activity_ID
 	2. Activity_Label
 
