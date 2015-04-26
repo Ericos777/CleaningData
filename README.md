@@ -1,7 +1,7 @@
 #README run_analysis.R
 
 This README file explains what the 'run_analysis.R' file contains and how the functions work.
-There is no codebook needed to explain the variables and parameters because all the functions are variables.
+This readme files serves as a small codebook need to explain the functions .
 To get a better grasp how functions work exactly 
 and how i have done things, it is usefull to look at the **run_analysis.R** file because it is well documentented by comment lines.
 
