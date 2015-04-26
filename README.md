@@ -43,6 +43,7 @@ Then columnames are added and all files are joined to one dataframe wich is retu
 
 ###loadTrain()
 This function loads the following files in the 'train' folder
+
 	1. x_train.txt
 	2. y.train.txt
 	3. subject_train.txt
