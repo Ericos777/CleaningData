@@ -1,7 +1,12 @@
 #README run_analysis.R
 
 This README file explains what the 'run_analysis.R' file contains and how the functions work.
-This readme files serves as a small codebook need to explain the functions .
+This readme files serves as a small codebook to explain the functions.
+
+Keep in mind that all functions don't have any parameters ore variables required.
+This is done on purpose so while i was developing is could check the results of a function by examaning the dataframe it returned.
+All functions return a dataframe **except the writeTidyAggregation() function**
+
 To get a better grasp how functions work exactly 
 and how i have done things, it is usefull to look at the **run_analysis.R** file because it is well documentented by comment lines.
 
